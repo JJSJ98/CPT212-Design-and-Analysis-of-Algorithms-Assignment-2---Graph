@@ -1,11 +1,5 @@
-/* Simple graph drawing class
-Bert Huang
-COMS 3137 Data Structures and Algorithms, Spring 2009
-
-This class is really elementary, but lets you draw 
-reasonably nice graphs/trees/diagrams. Feel free to 
-improve upon it!
- */
+// Simple graph drawing class
+ 
 
 import java.util.*;
 import java.awt.*;
